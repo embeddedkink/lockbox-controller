@@ -1,5 +1,7 @@
 # Control
 
+This repository is part of the [EKI Lockbox project](https://embeddedkink.com/lockbox). This repository contains the default control software, written in Python.
+
 The box is controlled with a python application. Download `main.py` and `requirements.txt` by cloning this repository, downloading the .zip or in another way you prefer.
 
 ## Windows
