@@ -1,3 +1,6 @@
+# NOTE
+The lockbox now has a webpage with which it can be controlled. It is recommended to use that instead.
+
 # Control
 
 This repository is part of the [EKI Lockbox project](https://embeddedkink.com/lockbox). This repository contains the default control software, written in Python.
